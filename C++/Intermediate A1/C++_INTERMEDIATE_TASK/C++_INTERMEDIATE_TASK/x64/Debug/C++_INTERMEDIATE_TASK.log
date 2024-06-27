@@ -1,0 +1,6 @@
+﻿  C++_INTERMEDIATE_TASK.cpp
+D:\Embedded Linux Diploma\C++\Intermediate A1\C++_INTERMEDIATE_TASK\C++_INTERMEDIATE_TASK\Math.hpp(12,2): warning C4984: 'if constexpr' is a C++17 language extension
+D:\Embedded Linux Diploma\C++\Intermediate A1\C++_INTERMEDIATE_TASK\C++_INTERMEDIATE_TASK\Math.hpp(33,2): warning C4984: 'if constexpr' is a C++17 language extension
+D:\Embedded Linux Diploma\C++\Intermediate A1\C++_INTERMEDIATE_TASK\C++_INTERMEDIATE_TASK\Math.hpp(54,3): warning C4984: 'if constexpr' is a C++17 language extension
+D:\Embedded Linux Diploma\C++\Intermediate A1\C++_INTERMEDIATE_TASK\C++_INTERMEDIATE_TASK\Math.hpp(80,2): warning C4984: 'if constexpr' is a C++17 language extension
+  C++_INTERMEDIATE_TASK.vcxproj -> D:\Embedded Linux Diploma\C++\Intermediate A1\C++_INTERMEDIATE_TASK\x64\Debug\C++_INTERMEDIATE_TASK.exe
